@@ -60,6 +60,6 @@ html, body {
 .slider__audio {
   position: absolute;
   z-index: 2;
-  opacity: .2;
+  opacity: .6;
   right: 0;
 }
